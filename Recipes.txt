@@ -2,9 +2,9 @@ Hello World Git.
 
 Pizza.
 
-Samosa.
+Vegetables.
 
-Burger.
+Fruits.
 
 Thank you :)
 
